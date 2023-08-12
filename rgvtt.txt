@@ -1,0 +1,20 @@
+three types of machine learning
+supervised 
+unsupervised
+reinforcement
+
+
+supervised types
+
+1 - linear regression - labeled data dependent variable varies linerly with independent variable (prediction by finding mean variance standard deviation)
+2 - logistic regression - binary (true or false)
+3 - decision tree - parent child nodes
+4 - random forest - for greater accuracy
+5 - knn - k nearest neighbour (find nearest neighbour and make class)
+
+linear regression
+
+y = theta1x + theta0
+
+two types 
+single and multiple
